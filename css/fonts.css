@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+@font-face{
+	font-family:'Libre Barcode 128';
+	font-weight:500;
+	src:url("../fonts/LibreBarcode128-Regular.woff") format('woff'),
+	url("../fonts/LibreBarcode128-Regular.eot") format('eot');
+}
+
+@font-face{
+	font-family:'Typewriter_Condensed_Demi';
+	font-weight:500;
+	src:url("../fonts/typewcond_regular.woff") format('woff')
+}
+
+@font-face{
+	font-family:'Noto Sans KR';
+	font-weight:500;
+	src:url("../fonts/NotoSansKR-VariableFont_wght.woff") format('woff')
+}
+
+@font-face{
+	font-family:'PP Editorial New';
+	font-weight:500;
+	src:url("../fonts/fonnts.com-PP_Editorial_New_Light.woff") format('woff')
+}
+
+@font-face{
+	font-family:'PP Mori';
+	font-weight:normal;
+	src:url("../fonts/PPMori-Regular.woff") format('woff')
+}
+
+@font-face{
+	font-family:'PP NeueBit';
+	font-weight:500;
+	src:url("../fonts/NeueBit-Regular.woff") format('woff')
+}
+
+@font-face{
+	font-family:'8bit';
+	src:url("../fonts/8bit.ttf") format('truetype')
+}
